@@ -18,4 +18,4 @@ elif operator == "/":
 else:
     result = "Invalid operator"
 
-print("Result:", result)
+
