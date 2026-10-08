@@ -19,5 +19,3 @@ else:
     result = "Invalid operator"
 
 print("Result:", result)
-dasadsd
-dasads
